@@ -1,0 +1,5 @@
+fdk>=0.1.44
+oci>=2.62.0
+cx-Oracle>=8.3.0
+Textblob>=0.17.1
+snscrape>=0.3.4
