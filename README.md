@@ -2,8 +2,7 @@
 Cloud system that enables the power of Oracle Cloud Infrastructure to fetch data from Twitter and visualize the results on OAC instance.
 
 
-<img src="/Users/hector/Library/Mobile Documents/com~apple~CloudDocs/macbook/Documents/ORACLEDEVELOPER/ORAHACKS/black-jaguar.drawio (1).png"/>
-
+<img src="/Users/hector/Library/Mobile Documents/com~apple~CloudDocs/macbook/Documents/ORACLEDEVELOPER/ORAHACKS/social-media-sentiment-analysis/diagram.png"/>
 ## IMPORTNAT THINGS TO KEEP IN MIND
 
 FN COMMON COMMANDS
